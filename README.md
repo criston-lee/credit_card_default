@@ -36,3 +36,6 @@ Future studies could:
 5. Model maintainence to ensure that performance of the model is up to baseline standard, accomodating changes in the customers profile / spending habits etc. 
 6. Hyperparameter tuning to improve accuracy of models. 
 
+# Contributions
+
+This was an individual project. 
