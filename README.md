@@ -1,7 +1,7 @@
 # Credit Card Default
 
 # Context
-This was the first data science project that I did. It was done as part of an individiual assignment as part of our module BC3409 AI in Accounting and Finance. 
+This was the first data science project that I worked on. It was done as part of an individiual assignment as part of our module BC3409 AI in Accounting and Finance. 
 
 # Importance of Project
 This project that was done is to predict whether a customer would default on their loan in the future (specifically next month) based on their personal information, and past history using a machine learning model.
@@ -12,7 +12,7 @@ This is important to the bank for 2 main reasons:
 2. It helps the bank make better lending decisions based on multiple predictors, and is more accurate than traditional methods like looking at credit risk or income levels. A predictive model takes into consideration multiple factors like demographics, gender, employment history etc. to come to a decision based on correlations that humans cannot detect as accurately. 
 
 # Dataset
-The dataset can be found at https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset, and various other places.
+The dataset can be found at https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset.
 
 # Evaluation
 
